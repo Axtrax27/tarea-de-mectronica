@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710388341 source:c:\users\anton\onedrive\documentos\tarea de mecatronica\tarea 7.6\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
